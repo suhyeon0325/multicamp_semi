@@ -12,3 +12,4 @@ geopandas
 pyproj
 shapely
 openpyxl
+kaleido
