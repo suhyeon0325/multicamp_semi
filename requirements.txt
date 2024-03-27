@@ -13,3 +13,4 @@ pyproj
 shapely
 openpyxl
 kaleido
+optuna
